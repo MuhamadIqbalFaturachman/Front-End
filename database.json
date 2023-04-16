@@ -1,0 +1,39 @@
+{
+  "pasien": [
+    {
+      "date": "2023-04-20",
+      "name": "Muhamad Iqbal Faturachman",
+      "age": "21",
+      "poli": "Poli Gigi",
+      "id": 1
+    },
+    {
+      "date": "2023-04-21",
+      "name": "Fahmi Awaludin",
+      "age": "20",
+      "poli": "Poli Umum",
+      "id": 2
+    },
+    {
+      "date": "2023-04-17",
+      "name": "Dhila Rakhma Fajriati",
+      "age": "20",
+      "poli": "Poli Umum",
+      "id": 3
+    }
+  ],
+  "polies": [
+    {
+      "id": 1,
+      "name": "Poli Umum"
+    },
+    {
+      "id": 2,
+      "name": "Poli Gigi"
+    },
+    {
+      "id": 3,
+      "name": "Poli Anak"
+    }
+  ]
+}
